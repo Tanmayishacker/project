@@ -1,0 +1,2 @@
+[console_scripts]
+server = rg_remake.server.app:main
